@@ -27,7 +27,7 @@ $ docker run -it wpscan --url http://my.wp.blog
 
 Notes:  
 
-1/ `wpscan` is the name of given to the image. YMMV
+1/ `wpscan` is the name of given to the image. YMMV  
 2/ This will run `ruby wpscan.rb` within the container as if it were installed on your system (thanks to the magic of `ENTRYPOINT ...` in the [Dockerfile](Dockerfile))
 
 ## LICENSE
