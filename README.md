@@ -16,7 +16,7 @@ $ docker build -t wpscan .
 If you *trust me* and prefer to download it directly from Docker Hub
 
 ```bash
-$ docker pull lvm23/docker-wpscan
+$ docker pull lvm23/wpscan
 ```
 
 either way, then you can run it by executing
